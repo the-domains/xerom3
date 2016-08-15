@@ -1,0 +1,14 @@
+layout_spectrum: 0.2775892617646605
+typography_spectrum: 0.9874293466564268
+color:
+  brandStrength: 0.38080295943655074
+  lightness: 0.06572642386890948
+  saturation: 0.02923827082850039
+  rhythmicContrast: 0.1402747023385018
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: XeRoM3
