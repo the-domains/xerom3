@@ -1,4 +1,3 @@
-layout_spectrum: 0.2775892617646605
 typography_spectrum: 0.9874293466564268
 color:
   brandStrength: 0.38080295943655074
@@ -11,4 +10,6 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.2775892617646605
 name: XeRoM3
+title: Johnny
